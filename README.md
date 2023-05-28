@@ -1,2 +1,5 @@
 # TCC-Leonardo-Emerson
-Este repositório contempla parte do trabalho realizado no meu TCC e contém códigos para o tratamento textual, análise exploratória e modelagem de tópicos das notícias falsas presentes no corpus de estudo com otimização de hiperparâmetros.
+Todos os direitos reservados. O conteúdo deste repositório não pode ser reproduzido, distribuído ou usado para qualquer finalidade sem a permissão por escrito do proprietário.
+O repositório Github do meu TCC é uma coleção abrangente de códigos que se concentram no tratamento textual de notícias falsas, análise exploratória e modelagem de tópicos com otimização de hiperparâmetros. Esses códigos são projetados para ajudar a identificar padrões em notícias falsas e criar dicionários que caracterizam sua evolução.
+
+A seção de tratamento textual inclui técnicas para limpar e preparar dados de notícias falsas para análise posterior. A análise exploratória oferece uma perspectiva abrangente do corpus de notícias falsas, com gráficos e visualizações que ilustram tendências e distribuições de palavras-chave. A modelagem de tópicos é baseada em algoritmos de aprendizado de máquina que fornecem uma estrutura para categorizar as notícias falsas em diferentes tópicos, permitindo uma análise mais aprofundada e direcionada.
